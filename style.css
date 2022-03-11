@@ -1,0 +1,15 @@
+.full {
+    background-color: #00294F;
+    background-image: url('https://imgur.com/SHhEQcV.png');
+    width: 100vw;
+    height: 100vh;
+}
+
+.text {
+    color: white;
+}
+
+.form-select, .input-group {
+    max-width: 75vw;
+    min-width: 15vw;
+}
